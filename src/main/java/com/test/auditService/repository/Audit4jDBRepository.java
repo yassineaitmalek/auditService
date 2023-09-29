@@ -1,4 +1,4 @@
-package com.test.repository;
+package com.test.auditService.repository;
 
 import org.springframework.stereotype.Repository;
 
